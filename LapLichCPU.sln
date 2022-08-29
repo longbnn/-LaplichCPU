@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LapLichCPU", "LapLichCPU\LapLichCPU.csproj", "{E3A3D97E-AF8D-4347-8CA5-CEE372216C8B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupLapLichCPU", "SetupLapLichCPU\SetupLapLichCPU.vdproj", "{EFC62169-4D08-4541-AD29-3A3AD97A6644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3A3D97E-AF8D-4347-8CA5-CEE372216C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A3D97E-AF8D-4347-8CA5-CEE372216C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A3D97E-AF8D-4347-8CA5-CEE372216C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A3D97E-AF8D-4347-8CA5-CEE372216C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC62169-4D08-4541-AD29-3A3AD97A6644}.Debug|Any CPU.ActiveCfg = Debug
+		{EFC62169-4D08-4541-AD29-3A3AD97A6644}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A40944BE-6335-49DB-B18F-309C245CB1D2}
+	EndGlobalSection
+EndGlobal
